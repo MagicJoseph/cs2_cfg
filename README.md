@@ -13,6 +13,8 @@ Installing these simply means placing configuration files on the Counter Strike 
 - `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg` the entire directory
 - `C:\Program Files (x86)\Steam\userdata\${steamID}\730\local\cfg` cs2_video.txt, where `${steamID}` is steamID3
 
+The file cs2_video.txt was added to keep the game's private configuration in the repository. Keep in mind that the graphics settings I have used may not be proper in your case.
+
 ## Launch Options
 
 `-freq 144 -novid -tickrate 128 -language english -d3d9ex +cl_forcepreload 1 +mat_queue_mode 2 -nojoy +exec autoexec.cfg`
