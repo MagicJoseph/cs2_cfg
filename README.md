@@ -4,7 +4,6 @@ Counter Strike 2 personal configuration
 ## Download
 
 Clone: `git clone https://github.com/MagicJoseph/cs2_cfg.git`
-
 Download ZIP: [https://github.com/MagicJoseph/cs2_cfg/archive/refs/heads/main.zip](https://github.com/MagicJoseph/cs2_cfg/archive/refs/heads/main.zip)
 
 ## Installation
