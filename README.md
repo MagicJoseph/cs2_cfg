@@ -33,7 +33,7 @@ The file cs2_video.txt was added to keep the game's private configuration in the
         |-- crosshair_line_up.cfg
         |-- crosshair_primary.cfg
         |-- crosshair_secondary.cfg
-        |-- resolution_settings.cfg
+        |-- crosshair_tertiary.cfg
         |-- userconfig.cfg
         |-- viewmodel_default.cfg
         |-- viewmodel_primary.cfg
