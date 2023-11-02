@@ -1,5 +1,5 @@
-# csgo_cfg
-Counter Strike: Global Offensive personal configuration
+# cs2_cfg
+Counter Strike 2 personal configuration
 
 ## Download
 
@@ -22,7 +22,6 @@ Installing these simply means placing configuration files on the Counter Strike 
 |-- cs2_cfg
     |-- README.md
     |-- cfg
-        |-- 1on1.cfg
         |-- audio_settings.cfg
         |-- autoexec.cfg
         |-- crosshair_default.cfg
