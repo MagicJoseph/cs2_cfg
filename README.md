@@ -8,10 +8,10 @@ Clone: `git clone https://github.com/MagicJoseph/cs2_cfg.git`
 Download ZIP: [https://github.com/MagicJoseph/cs2_cfg/archive/master.zip](https://github.com/MagicJoseph/cs2_cfg/archive/master.zip)
 
 ## Installation
-Installing these simply means placing configuration files on the Counter Strike 2 directory:
+Place the configuration files in the Counter Strike 2 game directory given below:
 
-- `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg` the entire directory
-- `C:\Program Files (x86)\Steam\userdata\${steamID}\730\local\cfg` cs2_video.txt, where `${steamID}` is steamID3
+1. All files from the `cfg` directory - `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+2. cs2_video.txt, where `${steamID}` is steamID3 - `C:\Program Files (x86)\Steam\userdata\${steamID}\730\local\cfg`
 
 The file cs2_video.txt was added to keep the game's private configuration in the repository. Keep in mind that the graphics settings I have used may not be proper in your case.
 
