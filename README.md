@@ -21,6 +21,7 @@ Installing these simply means placing configuration files on the Counter Strike 
 ```
 |-- cs2_cfg
     |-- README.md
+    |-- cs2_video.txt
     |-- cfg
         |-- audio_settings.cfg
         |-- autoexec.cfg
