@@ -39,7 +39,7 @@ The file cs2_video.txt was added to keep the game's private configuration in the
         |-- viewmodel_primary.cfg
 ```
 
-### Key Binds
+## Key Binds
 
 | KeyCode     | Action                            |
 |-------------|-----------------------------------|
