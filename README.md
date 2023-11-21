@@ -40,7 +40,7 @@ The file cs2_video.txt was added to keep the game's private configuration in the
 ```
 
 ## Key Binds
-This table outlines a series of keybindings. The **KeyCode** column lists specific keys or mouse buttons, such as `ESCAPE`, `SPACE`, or `MOUSE1`. The **Action** column shows the in-game command each key or button triggers, like cancelselect, `+jump`, or `+attack`. The **Description** column provides a brief explanation of the command's function, for example, `+jump` is used to make the character jump, and `buymenu` opens the in-game purchase menu.
+This table outlines a series of keybindings. The **KeyCode** column lists specific keys or mouse buttons, such as `ESCAPE`, `SPACE`, or `MOUSE1`. The **Action** column shows the in-game command each key or button triggers, like `cancelselect`, `+jump`, or `+attack`. The **Description** column provides a brief explanation of the command's function, for example, `+jump` is used to make the character jump, and `buymenu` opens the in-game purchase menu.
 
 | KeyCode     | Action                            | Description                                               |
 |-------------|-----------------------------------|-----------------------------------------------------------|
@@ -102,6 +102,8 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | DEL         | `mute`                            | Mutes a selected player or sound source.                  |
 
 ## Aliases
+The provided table lists a set of alias commands for a video game. It includes three columns: **Alias**, **Command**, and **Description**. Each row corresponds to a different alias, showing the shortcut, the complete command it represents, and a brief explanation of the command's function.
+
 
 | Alias | Command              | Description                              |
 |-------|----------------------|------------------------------------------|
