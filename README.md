@@ -38,3 +38,64 @@ The file cs2_video.txt was added to keep the game's private configuration in the
         |-- viewmodel_default.cfg
         |-- viewmodel_primary.cfg
 ```
+
+### Key Binds
+
+| KeyCode     | Action                            |
+|-------------|-----------------------------------|
+| ESCAPE      | `cancelselect`                    |
+| `           | `toggleconsole`                   |
+| TAB         | `+showscores`                     |
+| SPACE       | `+jump`                           |
+| ,           | `buyammo1`                        |
+| .           | `buyammo2`                        |
+| 0           | `slot10`                          |
+| 1           | `slot1`                           |
+| 2           | `slot2`                           |
+| 3           | `slot3`                           |
+| 4           | `slot4`                           |
+| 5           | `slot5`                           |
+| 6           | `slot6`                           |
+| 7           | `slot7`                           |
+| 8           | `slot8`                           |
+| 9           | `slot9`                           |
+| a           | `+left`                           |
+| b           | `buymenu`                         |
+| c           | `slot10`                          |
+| d           | `+right`                          |
+| e           | `+use`                            |
+| f           | `+lookatweapon`                   |
+| g           | `drop`                            |
+| i           | `show_loadout_toggle`             |
+| m           | `teammenu`                        |
+| q           | `+quickSwitch`                    |
+| r           | `+reload`                         |
+| s           | `+back`                           |
+| t           | `+crosshairLineup`                |
+| u           | `messagemode2`                    |
+| v           | `+voicerecord`                    |
+| w           | `+forward`                        |
+| x           | `slot7`                           |
+| y           | `messagemode`                     |
+| z           | `+spray_menu`                     |
+| CTRL        | `+duck`                           |
+| SHIFT       | `+sprint; radar_scale`            |
+| ALT         | `+jump; +throw`                   |
+| F1          | `vote_yes; qb_ak47_m4a1`          |
+| F2          | `vote_no; qb_galilar_famas`       |
+| F3          | `qb_mac10_mp9`                    |
+| F4          | `qb_deagle`                       |
+| F5          | `qb_tec9_cz75a`                   |
+| F6          | `qb_awp`                          |
+| F7          | `qb_ssg08`                        |
+| F8          | `exec crosshair_default.cfg`      |
+| F9          | `exec crosshair_primary.cfg`      |
+| F10         | `exec crosshair_secondary.cfg`    |
+| F11         | `exec crosshair_tertiary.cfg`     |
+| MWHEELDOWN  | `+jump`                           |
+| MWHEELUP    | `+duck`                           |
+| MOUSE1      | `+attack`                         |
+| MOUSE2      | `+attack2`                        |
+| MOUSE4      | `+lobThrow`                       |
+| MOUSE5      | `player_ping`                     |
+| DEL         | `mute`                            |
