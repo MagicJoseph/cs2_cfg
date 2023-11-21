@@ -64,7 +64,7 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | b           | `buymenu`                         | Opens the buy menu.                                       |
 | c           | `slot10`                          | Selects item in slot 10 (alternate).                      |
 | d           | `+right`                          | Moves character or view right.                            |
-| e           | `+use`                            | Activates the use function (e.g., open doors).            |
+| e           | `+use`                            | Activates the use function.            |
 | f           | `+lookatweapon`                   | Inspects the currently equipped weapon.                   |
 | g           | `drop`                            | Drops the currently equipped item or weapon.              |
 | i           | `show_loadout_toggle`             | Toggles the loadout display.                              |
@@ -72,7 +72,7 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | q           | `+quickSwitch`                    | Quickly switches to the previous weapon.                  |
 | r           | `+reload`                         | Reloads the currently equipped weapon.                    |
 | s           | `+back`                           | Moves character backward.                                 |
-| t           | `+crosshairLineup`                | Special function for crosshair alignment (game-specific). |
+| t           | `+crosshairLineup`                | Special function for crosshair alignment.                 |
 | u           | `messagemode2`                    | Opens chat for team messages.                             |
 | v           | `+voicerecord`                    | Starts voice recording or voice chat.                     |
 | w           | `+forward`                        | Moves character forward.                                  |
@@ -96,8 +96,8 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | MWHEELDOWN  | `+jump`                           | Jump using mouse wheel down.                              |
 | MWHEELUP    | `+duck`                           | Crouch using mouse wheel up.                              |
 | MOUSE1      | `+attack`                         | Primary weapon attack or action.                          |
-| MOUSE2      | `+attack2`                        | Secondary weapon attack or action (like aiming).          |
-| MOUSE4      | `+lobThrow`                       | Executes a lobbed throw (in games with throwable items).  |
+| MOUSE2      | `+attack2`                        | Secondary weapon attack or action.                        |
+| MOUSE4      | `+lobThrow`                       | Executes a lobbed throw.                                  |
 | MOUSE5      | `player_ping`                     | Pings a location or object for teammates to see.          |
 | DEL         | `mute`                            | Mutes a selected player or sound source.                  |
 
