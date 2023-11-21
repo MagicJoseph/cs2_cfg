@@ -40,6 +40,7 @@ The file cs2_video.txt was added to keep the game's private configuration in the
 ```
 
 ## Key Binds
+This table outlines a series of keybindings for a video game. The "KeyCode" column lists specific keys or mouse buttons, such as "ESCAPE", "SPACE", or "MOUSE1". The "Action" column shows the in-game command each key or button triggers, like cancelselect, +jump, or +attack. The "Description" column provides a brief explanation of the command's function, for example, +jump is used to make the character jump, and buymenu opens the in-game purchase menu. Additionally, there are specialized quick buy commands (marked as "qb") that allow for fast purchasing of weapons and equipment.
 
 | KeyCode     | Action                            | Description                                               |
 |-------------|-----------------------------------|-----------------------------------------------------------|
