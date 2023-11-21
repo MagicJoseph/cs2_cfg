@@ -100,3 +100,12 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | MOUSE4      | `+lobThrow`                       | Executes a lobbed throw (in games with throwable items).  |
 | MOUSE5      | `player_ping`                     | Pings a location or object for teammates to see.          |
 | DEL         | `mute`                            | Mutes a selected player or sound source.                  |
+
+## Aliases
+
+| Alias | Command              | Description                              |
+|-------|----------------------|------------------------------------------|
+| dc    | `disconnect`         | Disconnects from the current server.     |
+| rt    | `retry`              | Reconnects to the current server.        |
+| ae    | `exec autoexec.cfg`  | Executes the autoexec configuration file.|
+| uc    | `exec userconfig.cfg`| Executes the user configuration file.    |
