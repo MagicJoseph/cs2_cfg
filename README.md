@@ -41,61 +41,61 @@ The file cs2_video.txt was added to keep the game's private configuration in the
 
 ## Key Binds
 
-| KeyCode     | Action                            |
-|-------------|-----------------------------------|
-| ESCAPE      | `cancelselect`                    |
-| `           | `toggleconsole`                   |
-| TAB         | `+showscores`                     |
-| SPACE       | `+jump`                           |
-| ,           | `buyammo1`                        |
-| .           | `buyammo2`                        |
-| 0           | `slot10`                          |
-| 1           | `slot1`                           |
-| 2           | `slot2`                           |
-| 3           | `slot3`                           |
-| 4           | `slot4`                           |
-| 5           | `slot5`                           |
-| 6           | `slot6`                           |
-| 7           | `slot7`                           |
-| 8           | `slot8`                           |
-| 9           | `slot9`                           |
-| a           | `+left`                           |
-| b           | `buymenu`                         |
-| c           | `slot10`                          |
-| d           | `+right`                          |
-| e           | `+use`                            |
-| f           | `+lookatweapon`                   |
-| g           | `drop`                            |
-| i           | `show_loadout_toggle`             |
-| m           | `teammenu`                        |
-| q           | `+quickSwitch`                    |
-| r           | `+reload`                         |
-| s           | `+back`                           |
-| t           | `+crosshairLineup`                |
-| u           | `messagemode2`                    |
-| v           | `+voicerecord`                    |
-| w           | `+forward`                        |
-| x           | `slot7`                           |
-| y           | `messagemode`                     |
-| z           | `+spray_menu`                     |
-| CTRL        | `+duck`                           |
-| SHIFT       | `+sprint; radar_scale`            |
-| ALT         | `+jump; +throw`                   |
-| F1          | `vote_yes; qb_ak47_m4a1`          |
-| F2          | `vote_no; qb_galilar_famas`       |
-| F3          | `qb_mac10_mp9`                    |
-| F4          | `qb_deagle`                       |
-| F5          | `qb_tec9_cz75a`                   |
-| F6          | `qb_awp`                          |
-| F7          | `qb_ssg08`                        |
-| F8          | `exec crosshair_default.cfg`      |
-| F9          | `exec crosshair_primary.cfg`      |
-| F10         | `exec crosshair_secondary.cfg`    |
-| F11         | `exec crosshair_tertiary.cfg`     |
-| MWHEELDOWN  | `+jump`                           |
-| MWHEELUP    | `+duck`                           |
-| MOUSE1      | `+attack`                         |
-| MOUSE2      | `+attack2`                        |
-| MOUSE4      | `+lobThrow`                       |
-| MOUSE5      | `player_ping`                     |
-| DEL         | `mute`                            |
+| KeyCode     | Action                            | Description                                               |
+|-------------|-----------------------------------|-----------------------------------------------------------|
+| ESCAPE      | `cancelselect`                    | Cancels the current selection.                            |
+| `           | `toggleconsole`                   | Toggles the game console on and off.                      |
+| TAB         | `+showscores`                     | Displays the score board.                                 |
+| SPACE       | `+jump`                           | Makes the character jump.                                 |
+| ,           | `buyammo1`                        | Buys primary weapon ammunition.                           |
+| .           | `buyammo2`                        | Buys secondary weapon ammunition.                         |
+| 0           | `slot10`                          | Selects item in slot 10.                                  |
+| 1           | `slot1`                           | Selects item in slot 1.                                   |
+| 2           | `slot2`                           | Selects item in slot 2.                                   |
+| 3           | `slot3`                           | Selects item in slot 3.                                   |
+| 4           | `slot4`                           | Selects item in slot 4.                                   |
+| 5           | `slot5`                           | Selects item in slot 5.                                   |
+| 6           | `slot6`                           | Selects item in slot 6.                                   |
+| 7           | `slot7`                           | Selects item in slot 7.                                   |
+| 8           | `slot8`                           | Selects item in slot 8.                                   |
+| 9           | `slot9`                           | Selects item in slot 9.                                   |
+| a           | `+left`                           | Moves character or view left.                             |
+| b           | `buymenu`                         | Opens the buy menu.                                       |
+| c           | `slot10`                          | Selects item in slot 10 (alternate).                      |
+| d           | `+right`                          | Moves character or view right.                            |
+| e           | `+use`                            | Activates the use function (e.g., open doors).            |
+| f           | `+lookatweapon`                   | Inspects the currently equipped weapon.                   |
+| g           | `drop`                            | Drops the currently equipped item or weapon.              |
+| i           | `show_loadout_toggle`             | Toggles the loadout display.                              |
+| m           | `teammenu`                        | Opens the team selection menu.                            |
+| q           | `+quickSwitch`                    | Quickly switches to the previous weapon.                  |
+| r           | `+reload`                         | Reloads the currently equipped weapon.                    |
+| s           | `+back`                           | Moves character backward.                                 |
+| t           | `+crosshairLineup`                | Special function for crosshair alignment (game-specific). |
+| u           | `messagemode2`                    | Opens chat for team messages.                             |
+| v           | `+voicerecord`                    | Starts voice recording or voice chat.                     |
+| w           | `+forward`                        | Moves character forward.                                  |
+| x           | `slot7`                           | Selects item in slot 7 (alternate).                       |
+| y           | `messagemode`                     | Opens chat for all players.                               |
+| z           | `+spray_menu`                     | Opens a menu for spray tags.                              |
+| CTRL        | `+duck`                           | Makes the character crouch.                               |
+| SHIFT       | `+sprint; radar_scale`            | Enables sprinting and adjusts radar scale.                |
+| ALT         | `+jump; +throw`                   | Combines jump and throw actions.                          |
+| F1          | `vote_yes; qb_ak47_m4a1`          | Votes yes and performs a quick buy of an AK-47/M4A1 set.  |
+| F2          | `vote_no; qb_galilar_famas`       | Votes no and performs a quick buy of a Galil AR/FAMAS set.|
+| F3          | `qb_mac10_mp9`                    | Performs a quick buy of a MAC-10/MP9 set.                 |
+| F4          | `qb_deagle`                       | Performs a quick buy of a Desert Eagle set.               |
+| F5          | `qb_tec9_cz75a`                   | Performs a quick buy of a Tec-9/CZ75-Auto set.            |
+| F6          | `qb_awp`                          | Performs a quick buy of an AWP sniper rifle set.          |
+| F7          | `qb_ssg08`                        | Performs a quick buy of an SSG 08 sniper rifle set.       |
+| F8          | `exec crosshair_default.cfg`      | Executes the default crosshair configuration.             |
+| F9          | `exec crosshair_primary.cfg`      | Executes the primary crosshair configuration.             |
+| F10         | `exec crosshair_secondary.cfg`    | Executes the secondary crosshair configuration.           |
+| F11         | `exec crosshair_tertiary.cfg`     | Executes the tertiary crosshair configuration.            |
+| MWHEELDOWN  | `+jump`                           | Jump using mouse wheel down.                              |
+| MWHEELUP    | `+duck`                           | Crouch using mouse wheel up.                              |
+| MOUSE1      | `+attack`                         | Primary weapon attack or action.                          |
+| MOUSE2      | `+attack2`                        | Secondary weapon attack or action (like aiming).          |
+| MOUSE4      | `+lobThrow`                       | Executes a lobbed throw (in games with throwable items).  |
+| MOUSE5      | `player_ping`                     | Pings a location or object for teammates to see.          |
+| DEL         | `mute`                            | Mutes a selected player or sound source.                  |
