@@ -55,16 +55,12 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | 2           | `slot2`                           | Selects item in slot 2.                                   |
 | 3           | `slot3`                           | Selects item in slot 3.                                   |
 | 4           | `slot4`                           | Selects item in slot 4.                                   |
-| 5           | `slot5`                           | Selects item in slot 5.                                   |
-| 6           | `slot6`                           | Selects item in slot 6.                                   |
-| 7           | `slot7`                           | Selects item in slot 7.                                   |
-| 8           | `slot8`                           | Selects item in slot 8.                                   |
-| 9           | `slot9`                           | Selects item in slot 9.                                   |
+| 5           | `slot12`                          | Selects item in slot 5.                                   |
 | a           | `+left`                           | Moves character or view left.                             |
 | b           | `buymenu`                         | Opens the buy menu.                                       |
-| c           | `slot10`                          | Selects item in slot 10 (alternate).                      |
+| c           | `slot8`                           | Selects item in slot 8.                                   |
 | d           | `+right`                          | Moves character or view right.                            |
-| e           | `+use`                            | Activates the use function.            |
+| e           | `+use`                            | Activates the use function.                               |
 | f           | `+lookatweapon`                   | Inspects the currently equipped weapon.                   |
 | g           | `drop`                            | Drops the currently equipped item or weapon.              |
 | i           | `show_loadout_toggle`             | Toggles the loadout display.                              |
@@ -76,7 +72,7 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | u           | `messagemode2`                    | Opens chat for team messages.                             |
 | v           | `+voicerecord`                    | Starts voice recording or voice chat.                     |
 | w           | `+forward`                        | Moves character forward.                                  |
-| x           | `slot7`                           | Selects item in slot 7 (alternate).                       |
+| x           | `slot7`                           | Selects item in slot 7.                                   |
 | y           | `messagemode`                     | Opens chat for all players.                               |
 | z           | `+spray_menu`                     | Opens a menu for spray tags.                              |
 | CTRL        | `+duck`                           | Makes the character crouch.                               |
