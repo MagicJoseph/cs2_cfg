@@ -55,7 +55,11 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | 2           | `slot2`                           | Selects item in slot 2.                                   |
 | 3           | `slot3`                           | Selects item in slot 3.                                   |
 | 4           | `slot4`                           | Selects item in slot 4.                                   |
-| 5           | `slot12`                          | Selects item in slot 12.                                  |
+| 5           | `slot5`                           | Selects item in slot 5.                                   |
+| 6           | `slot12`                          | Selects item in slot 12.                                  |
+| 7           | `slot7`                           | Selects item in slot 7.                                   |
+| 8           | `slot8`                           | Selects item in slot 8.                                   |
+| 9           | `slot9`                           | Selects item in slot 9.                                   |
 | a           | `+left`                           | Moves character or view left.                             |
 | b           | `buymenu`                         | Opens the buy menu.                                       |
 | c           | `slot8`                           | Selects item in slot 8.                                   |
