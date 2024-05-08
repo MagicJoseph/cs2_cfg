@@ -34,6 +34,8 @@ The file cs2_video.txt was added to keep the game's private configuration in the
         |-- crosshair_secondary.cfg
         |-- crosshair_tertiary.cfg
         |-- crosshair_white.cfg
+        |-- practise.cfg
+        |-- pt_help.cfg
         |-- userconfig.cfg
         |-- viewmodel_default.cfg
         |-- viewmodel_primary.cfg
@@ -102,7 +104,7 @@ This table outlines a series of keybindings. The **KeyCode** column lists specif
 | DEL         | `mute`                            | Mutes a selected player or sound source.                  |
 
 ## Aliases
-The provided table lists a set of alias commands for a video game. It includes three columns: **Alias**, **Command**, and **Description**. Each row corresponds to a different alias, showing the shortcut, the complete command it represents, and a brief explanation of the command's function.
+The provided table lists a set of alias commands. It includes three columns: **Alias**, **Command**, and **Description**. Each row corresponds to a different alias, showing the shortcut, the complete command it represents, and a brief explanation of the command's function.
 
 
 | Alias | Command              | Description                              |
@@ -111,3 +113,4 @@ The provided table lists a set of alias commands for a video game. It includes t
 | rt    | `retry`              | Reconnects to the current server.        |
 | ae    | `exec autoexec.cfg`  | Executes the autoexec configuration file.|
 | uc    | `exec userconfig.cfg`| Executes the user configuration file.    |
+| pt    | `exec practise.cfg`  | Executes the practise configuration file.|
