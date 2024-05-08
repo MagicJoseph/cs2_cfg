@@ -119,6 +119,7 @@ The provided table lists a set of alias commands. It includes three columns: **A
 ## Practice Configuration
 This table outlines a configuration file for practicing grenade throws and other maneuvers. It includes bindings that help in setting up different training scenarios, managing bots for realistic simulations, and enabling various debug options to enhance learning and practice.
 
+
 | Key  | Command               | Description                                                    |
 |------|-----------------------|----------------------------------------------------------------|
 | F1   | `pt_help`             | Displays a list of available keybinds.                         |
