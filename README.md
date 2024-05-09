@@ -120,19 +120,20 @@ The provided table lists a set of alias commands. It includes three columns: **A
 This table outlines a configuration file for practicing grenade throws and other maneuvers. It includes bindings that help in setting up different training scenarios, managing bots for realistic simulations, and enabling various debug options to enhance learning and practice.
 
 
-| Key  | Command               | Description                                                    |
-|------|-----------------------|----------------------------------------------------------------|
-| F1   | `pt_help`             | Displays a list of available keybinds.                         |
-| F2   | `pt_give_nades`       | Provides all types of grenades for practice.                   |
-| F3   | `pt_give_ak47`        | Equips the player with an AK-47 rifle.                         |
-| F4   | `pt_give_m4a1`        | Equips the player with an M4A1 rifle.                          |
-| F5   | `bot_add T`           | Adds a terrorist bot to the game for target practice.          |
-| F6   | `bot_place`           | Places the added bot at the player's crosshair.                |
-| F7   | `pt_bot_crouch`       | Commands the bot to crouch.                                    |
-| F8   | `pt_bot_mimic`        | Makes the bot mimic the player’s actions.                      |
-| F9   | `pt_wallhack`         | Toggles wallhack visibility for better visuals.                |
-| F10  | `pt_impactmarker`     | Shows where projectiles impact for analysis.                   |
-| h    | `pt_kill_projectile`  | Destroys a projectile in mid-air.                              |
-| j    | `sv_rethrow_last_grenade` | Retrows the last grenade for repeated practice.          |
-| v    | `noclip`              | Toggles no-clip mode, allowing movement through objects.       |
+| Key  | Command                     | Description                                           |
+|------|-----------------------------|-------------------------------------------------------|
+| F1   | `pt_help`                   | Displays a list of available keybinds.                |
+| F2   | `pt_give_nades`             | Provides all types of grenades for practice.          |
+| F3   | `pt_give_ak47`              | Equips the player with an AK-47 rifle.                |
+| F4   | `pt_give_m4a1`              | Equips the player with an M4A1 rifle.                 |
+| F5   | `bot_add T`                 | Adds a terrorist bot to the game.                     |
+| F6   | `bot_place`                 | Places the added bot at the player's crosshair.       |
+| F7   | `pt_bot_crouch`             | Commands the bot to crouch.                           |
+| F8   | `pt_bot_mimic`              | Makes the bot mimic the player’s actions.             |
+| F9   | `pt_bot_mimic_yaw_offset`   | Adjusts the bot's yaw offset when mimicking.          |
+| F10  | `pt_wallhack`               | Toggles wallhack visibility.                          |
+| F11  | `pt_impactmarker`           | Shows where projectiles impact for analysis.          |
+| h    | `pt_kill_projectile`        | Destroys a projectile in mid-air.                     |
+| j    | `sv_rethrow_last_grenade`   | Retrows the last grenade thrown for repeated practice.|
+| v    | `noclip`                    | Toggles no-clip mode, allowing movement through objects. |
 
