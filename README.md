@@ -16,7 +16,7 @@ The file cs2_video.txt was added to keep the game's private configuration in the
 
 ## Launch Options
 
-`-freq 144 -novid -tickrate 128 -language english -d3d9ex +cl_forcepreload 1 +mat_queue_mode 2 -nojoy +exec autoexec.cfg`
+`-full -w 1280 -h 960 -refresh 144 -language english +mat_queue_mode 2 +cl_forcepreload 1 -novid -nojoy -nopreload +exec autoexec.cfg -allow_third_party_software`
 
 ## Files
 
